@@ -1,6 +1,6 @@
 # Causal_Inference_using__NLP
 
-The task here was to Predict the stock price of the IPO companies by analysing the importance of text published in the company's 10K documents. 
+The task here was to Predict the stock price of the IPO companies by analysing the importance of text published in the company's 10K documents using double machine learning(de-biased machine learning). 
 
 Initially I have extracted the 10K documents of thousands of IPO companies from WRDS. 
 later preprocessed the text using NLP concepts and converted them into a dataframe using Countvector.
